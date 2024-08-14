@@ -5,16 +5,16 @@
     font-family: "poppins", sans-serif;
 }
 .hero-container{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     margin: 0px;
 }
 .first-container{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 100px;
     width: 100%;
 }
 .header {
-    border: 1px solid red;
+   /* border: 1px solid red; */
     height: 41px;
     display: flex;
     justify-content: space-between;
@@ -23,7 +23,7 @@
     width: 1286px;
 }
 .info{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     display: flex;
     gap: 5rem;
     margin-left: 5rem;
@@ -35,12 +35,12 @@
     
 }
 .anchor-img{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     display: flex;
     gap: 2rem;
 
-    img{
-        border: 1px solid black;
+    img{ 
+        /* border: 1px solid black; */
     }
 }
 .bck-img{
@@ -50,10 +50,10 @@
     padding: 0;
     margin: 0;
    position: relative;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 .arrival-text{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     padding: 2px;
     width: 561px;
     height: 344px;
@@ -65,7 +65,7 @@
     width: 643px;
     background: #FFF3E3;
     padding: 50px 50px 0px 50px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     border-radius: 10px;
     position: absolute;
     bottom: 7.3rem;
@@ -121,7 +121,7 @@
     }
 }
 .dlb-section{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin-top: 2rem;
   
 
@@ -183,7 +183,7 @@
 
 
 .our-product{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-top: 3rem;
       
     h2{
@@ -268,7 +268,7 @@
 
 }
 .rooms{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     gap: 2rem;
     margin-top: 4rem;
@@ -277,7 +277,7 @@
 
 }
 .rooms-desc{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     width: 422px;
     margin-top: 14rem;
     margin-left: 7.1rem;
@@ -330,7 +330,7 @@
 }
 
 .share{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     margin-top: 3rem;
 
     p{
@@ -396,7 +396,7 @@
 }
 
 .footer{
-    border: 1px solid hotpink;
+    /* border: 1px solid hotpink; */
     font-family: "poppins", sans-serif;
 }
 
